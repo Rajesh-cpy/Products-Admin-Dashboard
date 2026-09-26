@@ -145,6 +145,8 @@ Production readiness
 
 This project is structured for a clean frontend workflow and can be extended to a real backend service when needed. The next production step would be replacing localStorage persistence with a secure API and database layer.
 
+Live URL: https://product-admins-dashboard.netlify.app/
+
 Contributing
 
 1. Fork the repository
