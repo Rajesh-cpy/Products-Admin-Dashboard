@@ -32,29 +32,31 @@ Tech stack
 
 Project structure
 
+```text
 src/
 ├── App.jsx
 ├── components/
-│ ├── Header.jsx
-│ ├── Pagination.jsx
-│ ├── ProductCard.jsx
-│ ├── ProductFilters.jsx
-│ ├── ProductForm.jsx
-│ ├── ProductTable.jsx
-│ └── ProtectedRoute.jsx
+│   ├── Header.jsx
+│   ├── Pagination.jsx
+│   ├── ProductCard.jsx
+│   ├── ProductFilters.jsx
+│   ├── ProductForm.jsx
+│   ├── ProductTable.jsx
+│   └── ProtectedRoute.jsx
 ├── pages/
-│ ├── AddProduct.jsx
-│ ├── EditProduct.jsx
-│ ├── Login.jsx
-│ ├── ProductDetails.jsx
-│ └── Products.jsx
+│   ├── AddProduct.jsx
+│   ├── EditProduct.jsx
+│   ├── Login.jsx
+│   ├── ProductDetails.jsx
+│   └── Products.jsx
 ├── services/
-│ ├── api.js
-│ ├── authApi.js
-│ ├── productApi.js
-│ └── productStorage.js
+│   ├── api.js
+│   ├── authApi.js
+│   ├── productApi.js
+│   └── productStorage.js
 ├── index.css
 ├── main.jsx
+```
 
 Features
 
