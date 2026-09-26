@@ -21,12 +21,6 @@ This app lets an admin:
 
 The app keeps created, updated, and deleted items in local storage so changes remain visible after refresh.
 
-Live demo
-
-- Local development: http://localhost:5173/
-- Preview build: npm run preview
-- Production build output: dist/
-
 Tech stack
 
 - React 19
@@ -108,16 +102,15 @@ The app uses the public DummyJSON endpoints:
 
 Because DummyJSON simulates CRUD in the browser, this app stores local changes with localStorage to preserve the experience after refresh.
 
+Run locally
+
 Requirements
 
 - Node.js 18+
 - npm or yarn
 
 Installation
-
 npm install
-
-Run locally
 
 Development
 npm run dev
